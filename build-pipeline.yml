@@ -36,4 +36,4 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-      #test halla
+      # Step 3 - Add tests and linting here
